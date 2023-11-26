@@ -14,8 +14,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js",
-    "build": "npm install"
+    "server": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
